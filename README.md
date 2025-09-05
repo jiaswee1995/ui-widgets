@@ -29,7 +29,7 @@ npm run dev
 yarn dev
 ```
 
-项目启动后默认运行在 **http://localhost:5173/**
+项目启动后默认运行在 **http://localhost:3000/**
 
 ---
 
